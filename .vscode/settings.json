@@ -61,7 +61,9 @@
         "utility": "cpp",
         "vector": "cpp",
         "fstream": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "iomanip": "cpp",
+        "stack": "cpp"
     },
     "C_Cpp.errorSquiggles": "Enabled"
 }
