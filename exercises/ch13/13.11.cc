@@ -38,3 +38,5 @@ public:
     string *ps;
     int i;
 };
+
+int main() {}
